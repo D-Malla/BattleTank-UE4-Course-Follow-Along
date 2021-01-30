@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "BattleTankEditor Editor Win64 Development (BattleTank)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Dmall\\OneDrive\\Desktop\\UnrealCourse\\BattleTank-UE4-Course-Follow-Along\\BattleTank\\.vscode\\compileCommands_BattleTank.json"
+		}
+	]
+}
